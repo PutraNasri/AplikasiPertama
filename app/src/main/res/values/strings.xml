@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplikasiPertama</string>
+    <string name="tombol_trjemah">Terjemahkan...</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="apakabar_dunia">apakabar dunia lon</string>
+    <string name="action_settings">Settings</string>
+</resources>
